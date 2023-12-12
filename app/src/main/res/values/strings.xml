@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Click to Roll</string>
+    <string name="name"> Made By Subham</string>
+</resources>
